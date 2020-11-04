@@ -1,0 +1,33 @@
+{
+	"name": "usuarios-api",
+	"dockerFile": "Dockerfile",
+	"appPort": 3000,
+
+	"settings": { 
+		"terminal.integrated.shell.linux": "/bin/sh"
+	},
+
+	// Add the IDs of extensions you want installed when the container is created.
+	"extensions": [
+		"coenraads.bracket-pair-colorizer",
+		"viablelab.bracket-padder",
+		"mikestead.dotenv",
+		"editorconfig.editorconfig",
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"gruntfuggly.todo-tree",
+		"fabiospampinato.vscode-todo-plus",
+		"equinusocio.vsc-community-material-theme",
+		"pkief.material-icon-theme",
+		"equinusocio.vsc-material-theme",
+	],
+
+	"forwardPorts": [ 3000 ],
+	"workspaceMount": "source=/home/eduardo/ambiente/pessoal/node/usuarios-api,target=/home/node/src,type=bind,consistency=delegated",
+	"workspaceFolder": "/home/node/src",
+	"remoteUser": "node",
+	"updateRemoteUserUID": true,
+	//"postCreateCommand": "cd /home/node/src && yarn install",
+
+
+}
