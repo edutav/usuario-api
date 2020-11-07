@@ -13,6 +13,7 @@ export const winstonConfig: WinstonModuleOptions = {
         winston.format.timestamp(),
         nestWinstonModuleUtilities.format.nestLike(),
       ),
+      // format: winston.format.json(),
     }),
     new winston.transports.File({
       level: 'verbose',
