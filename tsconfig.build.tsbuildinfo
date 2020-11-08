@@ -3162,8 +3162,8 @@
         "affectsGlobalScope": false
       },
       "./src/users/users.repository.ts": {
-        "version": "3342b677def2df2888e5eca0b473c57d2d7322a25c702bf2d0b921abe7451a04",
-        "signature": "f2c466139e735501fbbb69a6aa01e1a635f34d8741d29e10db13a4a479c2d26b",
+        "version": "b3906a0bc50698baabc9d7873ecb6ddb4472635589e82f771ed0439100577f7e",
+        "signature": "1b16eb5bf531f9c69a599733496a8afe9276c99ded784576adc535923accbc4b",
         "affectsGlobalScope": false
       },
       "./src/users/dtos/update-users.dto.ts": {
@@ -3701,18 +3701,68 @@
         "signature": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f",
         "affectsGlobalScope": false
       },
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/template-adapter.interface.d.ts": {
+        "version": "265eb1121b47854a6712f47169befdf959c313f825ed0af68ce220fb56b21887",
+        "signature": "265eb1121b47854a6712f47169befdf959c313f825ed0af68ce220fb56b21887",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options.interface.d.ts": {
+        "version": "a83c80906e6c50497a5192b11c9a5ae4c6b08a9ae232a9f0048ed14ee25ed13f",
+        "signature": "a83c80906e6c50497a5192b11c9a5ae4c6b08a9ae232a9f0048ed14ee25ed13f",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options-factory.interface.d.ts": {
+        "version": "2f12571aaf23dba2ee4301dd3674652069f7f2e7dec520e65df06856538a3382",
+        "signature": "2f12571aaf23dba2ee4301dd3674652069f7f2e7dec520e65df06856538a3382",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-async-options.interface.d.ts": {
+        "version": "99a7c9457da00f4a34e55aa6623e634a98f67dc72d85a94fd46f0089dbe69ae2",
+        "signature": "99a7c9457da00f4a34e55aa6623e634a98f67dc72d85a94fd46f0089dbe69ae2",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@nestjs-modules/mailer/dist/mailer.module.d.ts": {
+        "version": "ae8a8c280c1256029af00e02f42633f6d892e7b8c00dd105e902ac704f99facb",
+        "signature": "ae8a8c280c1256029af00e02f42633f6d892e7b8c00dd105e902ac704f99facb",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/send-mail-options.interface.d.ts": {
+        "version": "2fb1860bf7cf7d239102576d24f75c91c867c65f29823ece8fc7896cdc9a7506",
+        "signature": "2fb1860bf7cf7d239102576d24f75c91c867c65f29823ece8fc7896cdc9a7506",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@nestjs-modules/mailer/dist/mailer.service.d.ts": {
+        "version": "ddefdbcb053a914b6e73bf6a7f97cde1e8c18274600c6494fa2ef24e7e0c1680",
+        "signature": "ddefdbcb053a914b6e73bf6a7f97cde1e8c18274600c6494fa2ef24e7e0c1680",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@nestjs-modules/mailer/dist/index.d.ts": {
+        "version": "227d38bb18ec549d47e00afc0af52d2fab218f4caa297397d7d927698032c115",
+        "signature": "227d38bb18ec549d47e00afc0af52d2fab218f4caa297397d7d927698032c115",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@nestjs-modules/mailer/index.d.ts": {
+        "version": "35d886b8d896fe37b23c6baf6558f01f98fae7eb8e04ab72fda918d0281a5309",
+        "signature": "35d886b8d896fe37b23c6baf6558f01f98fae7eb8e04ab72fda918d0281a5309",
+        "affectsGlobalScope": false
+      },
+      "./src/auth/dto/change-password.dto.ts": {
+        "version": "382dc094e7ee14e0f9f74d0d7866256d4f152cf6bc06954fa9f5243238fee37e",
+        "signature": "a4e94be31f7c2c95d487129680ff40a1baeb844e04adfc60feeeeedce48620e1",
+        "affectsGlobalScope": false
+      },
       "./src/auth/auth.service.ts": {
-        "version": "bb04e961c2d8bb92b8866a11423b748b57898553365494cf83b9ccf49577b2ce",
-        "signature": "8722cb05dadaa2a04a311365675da2f839b4605ac21085f4aa0d64863befd227",
+        "version": "7c77d610be6fcef141c8543866e04844c06d13a022c8959cd42b302ae6b374b9",
+        "signature": "77266aaae8a26ace2ceac85dbb2e72b41959714c1f65619de73c7eb7b8496108",
         "affectsGlobalScope": false
       },
       "./src/auth/auth.controller.ts": {
-        "version": "daa28806f94bd51c564111d4cc605fd3bee5d4106b79e5f9e24fea691df6a030",
-        "signature": "baef0ec7733d38d709b7a39ee72f0af469324b03d4492403fa3ea1d65cc0ecbe",
+        "version": "706b2197907f799a23d1205d59708a7a0edbce09d9cfe6c095de29e9e5274bfb",
+        "signature": "fec7e57186cdb92d20b38a066179c04c163227934b35a8f4cdac0799b2862c77",
         "affectsGlobalScope": false
       },
       "./src/auth/jwt.strategy.ts": {
-        "version": "bd77724881dae13e1beb636a6273b96cef8fff374d4b11f4c23b83bd43126656",
+        "version": "d5535ce746a55b8b736d1d60b16135bb294c48271d8a3d53829a4b6e789085a8",
         "signature": "dba31781033f44269cbb5f670577d5192188f3988cce1db9192a035472a12ae7",
         "affectsGlobalScope": false
       },
@@ -3786,8 +3836,23 @@
         "signature": "0129177f1f5555792bbe6cbadaba4e37692dae89b501115a8106829c8a0c43fb",
         "affectsGlobalScope": false
       },
+      "./node_modules/handlebars/types/index.d.ts": {
+        "version": "f3a68054f682f21cec1eb6bc37d3c4c7f73b7723c7256f8a1ccc75873024aaa6",
+        "signature": "f3a68054f682f21cec1eb6bc37d3c4c7f73b7723c7256f8a1ccc75873024aaa6",
+        "affectsGlobalScope": true
+      },
+      "./node_modules/@nestjs-modules/mailer/dist/adapters/handlebars.adapter.d.ts": {
+        "version": "7a6ee892020187665ac94ec6e364bd10039639362ab807dbd73584364f762b26",
+        "signature": "7a6ee892020187665ac94ec6e364bd10039639362ab807dbd73584364f762b26",
+        "affectsGlobalScope": false
+      },
+      "./src/configs/mailer.config.ts": {
+        "version": "655944cd40f786dab5ccf40386c003a813d052826a6fe5ea64434ed46fc236ed",
+        "signature": "a7bb4ad031f72bb6de087049f499f6e464da4c74728f9cfac87c58019761b683",
+        "affectsGlobalScope": false
+      },
       "./src/app.module.ts": {
-        "version": "4287dd78b94b937b3d412e8e345257ab2f47970f73c3775289746637c3c64e83",
+        "version": "738f38518d8f4fc00a5f6d688be1f6d9c3a231609578eae4b1e97a6b8a96ada9",
         "signature": "b82491e2990291580288c5602d4c017238977749d52b17391f0e45d9a29be644",
         "affectsGlobalScope": false
       },
@@ -3799,6 +3864,16 @@
       "./node_modules/@types/anymatch/index.d.ts": {
         "version": "48b52264fa193879a074197839dbb4796fa07e86350ff888e5361e06aa46df76",
         "signature": "48b52264fa193879a074197839dbb4796fa07e86350ff888e5361e06aa46df76",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/babel-types/ts3.6/index.d.ts": {
+        "version": "b5151c566c80e1f636333b9cc7d8004b6152449768179fc73055692e1d9cbe52",
+        "signature": "b5151c566c80e1f636333b9cc7d8004b6152449768179fc73055692e1d9cbe52",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/babel-types/index.d.ts": {
+        "version": "226ee2a7ffe7fab4ea074872cd48460460d2d8d4cdcdb742e2469f1445ef48b6",
+        "signature": "226ee2a7ffe7fab4ea074872cd48460460d2d8d4cdcdb742e2469f1445ef48b6",
         "affectsGlobalScope": false
       },
       "./node_modules/@babel/types/lib/index.d.ts": {
@@ -3831,6 +3906,11 @@
         "signature": "a66e700ed470a0cb52d14f3376c1605c70fec8e9659e45f7e22ad07fcd06ae04",
         "affectsGlobalScope": false
       },
+      "./node_modules/@types/babylon/index.d.ts": {
+        "version": "e7ef01fb3213b1be13321648ac2612d60e9e2742e28fc2fcf68d27fb965a8d5c",
+        "signature": "e7ef01fb3213b1be13321648ac2612d60e9e2742e28fc2fcf68d27fb965a8d5c",
+        "affectsGlobalScope": false
+      },
       "./node_modules/@types/connect/index.d.ts": {
         "version": "e6ffa74698f0a1d23e4223242ed7dcdb89d02bbbb063a1930e9f91d0385abe16",
         "signature": "e6ffa74698f0a1d23e4223242ed7dcdb89d02bbbb063a1930e9f91d0385abe16",
@@ -3844,6 +3924,11 @@
       "./node_modules/@types/cookiejar/index.d.ts": {
         "version": "8d48b8f8a377ade8dd1f000625bc276eea067f2529cc9cafdf082d17142107d6",
         "signature": "8d48b8f8a377ade8dd1f000625bc276eea067f2529cc9cafdf082d17142107d6",
+        "affectsGlobalScope": false
+      },
+      "./node_modules/@types/ejs/index.d.ts": {
+        "version": "3e1884edd5ad7e5c6f8e900b767dfabc64db4a3588643e72535fa948cddf52cd",
+        "signature": "3e1884edd5ad7e5c6f8e900b767dfabc64db4a3588643e72535fa948cddf52cd",
         "affectsGlobalScope": false
       },
       "./node_modules/@types/eslint/helpers.d.ts": {
@@ -3991,6 +4076,11 @@
         "signature": "7403a1397d48771d58d55c603d0c51aa3d4cd6467bca03140f085fdc432eb912",
         "affectsGlobalScope": false
       },
+      "./node_modules/@types/pug/index.d.ts": {
+        "version": "e5c0472e87e18dfe9d2d2d2c3be9f4a5fbec27a74e37bd0e7dd8ab304ea66689",
+        "signature": "e5c0472e87e18dfe9d2d2d2c3be9f4a5fbec27a74e37bd0e7dd8ab304ea66689",
+        "affectsGlobalScope": false
+      },
       "./node_modules/@types/source-list-map/index.d.ts": {
         "version": "67fc055eb86a0632e2e072838f889ffe1754083cb13c8c80a06a7d895d877aae",
         "signature": "67fc055eb86a0632e2e072838f889ffe1754083cb13c8c80a06a7d895d877aae",
@@ -4130,6 +4220,48 @@
     "referencedMap": {
       "./node_modules/@babel/parser/typings/babel-parser.d.ts": [
         "./node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/dist/adapters/handlebars.adapter.d.ts": [
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options.interface.d.ts",
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/template-adapter.interface.d.ts",
+        "./node_modules/handlebars/types/index.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/dist/index.d.ts": [
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options-factory.interface.d.ts",
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options.interface.d.ts",
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/send-mail-options.interface.d.ts",
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/template-adapter.interface.d.ts",
+        "./node_modules/@nestjs-modules/mailer/dist/mailer.module.d.ts",
+        "./node_modules/@nestjs-modules/mailer/dist/mailer.service.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-async-options.interface.d.ts": [
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options-factory.interface.d.ts",
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options.interface.d.ts",
+        "./node_modules/@nestjs/common/interfaces/index.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options-factory.interface.d.ts": [
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options.interface.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options.interface.d.ts": [
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/template-adapter.interface.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/send-mail-options.interface.d.ts": [
+        "./node_modules/@types/node/index.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/template-adapter.interface.d.ts": [
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options.interface.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/dist/mailer.module.d.ts": [
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-async-options.interface.d.ts",
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options.interface.d.ts",
+        "./node_modules/@nestjs/common/index.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/dist/mailer.service.d.ts": [
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options.interface.d.ts",
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/send-mail-options.interface.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/index.d.ts": [
+        "./node_modules/@nestjs-modules/mailer/dist/index.d.ts"
       ],
       "./node_modules/@nestjs/common/cache/cache.module.d.ts": [
         "./node_modules/@nestjs/common/cache/interfaces/cache-module.interface.d.ts",
@@ -4846,6 +4978,9 @@
       "./node_modules/@nestjs/typeorm/index.d.ts": [
         "./node_modules/@nestjs/typeorm/dist/index.d.ts"
       ],
+      "./node_modules/@types/babel-types/index.d.ts": [
+        "./node_modules/@types/babel-types/ts3.6/index.d.ts"
+      ],
       "./node_modules/@types/babel__core/index.d.ts": [
         "./node_modules/@babel/parser/typings/babel-parser.d.ts",
         "./node_modules/@babel/types/lib/index.d.ts",
@@ -4862,6 +4997,9 @@
       ],
       "./node_modules/@types/babel__traverse/index.d.ts": [
         "./node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "./node_modules/@types/babylon/index.d.ts": [
+        "./node_modules/@types/babel-types/index.d.ts"
       ],
       "./node_modules/@types/body-parser/index.d.ts": [
         "./node_modules/@types/connect/index.d.ts",
@@ -7105,11 +7243,13 @@
         "./node_modules/winston-transport/index.d.ts"
       ],
       "./src/app.module.ts": [
+        "./node_modules/@nestjs-modules/mailer/index.d.ts",
         "./node_modules/@nestjs/common/index.d.ts",
         "./node_modules/@nestjs/core/index.d.ts",
         "./node_modules/@nestjs/typeorm/index.d.ts",
         "./node_modules/nest-winston/dist/index.d.ts",
         "./src/auth/auth.module.ts",
+        "./src/configs/mailer.config.ts",
         "./src/configs/typeorm.config.ts",
         "./src/configs/winston.config.ts",
         "./src/interceptors/logger.interceptor.ts",
@@ -7119,9 +7259,11 @@
         "./node_modules/@nestjs/common/index.d.ts",
         "./node_modules/@nestjs/passport/index.d.ts",
         "./src/auth/auth.service.ts",
+        "./src/auth/dto/change-password.dto.ts",
         "./src/auth/dto/credentials.dto.ts",
         "./src/auth/get-user.decorator.ts",
         "./src/users/dtos/create-user.dto.ts",
+        "./src/users/user-roles.enum.ts",
         "./src/users/user.entity.ts"
       ],
       "./src/auth/auth.module.ts": [
@@ -7135,14 +7277,20 @@
         "./src/users/users.repository.ts"
       ],
       "./src/auth/auth.service.ts": [
+        "./node_modules/@nestjs-modules/mailer/index.d.ts",
         "./node_modules/@nestjs/common/index.d.ts",
         "./node_modules/@nestjs/jwt/index.d.ts",
         "./node_modules/@nestjs/typeorm/index.d.ts",
+        "./node_modules/@types/node/crypto.d.ts",
+        "./src/auth/dto/change-password.dto.ts",
         "./src/auth/dto/credentials.dto.ts",
         "./src/users/dtos/create-user.dto.ts",
         "./src/users/user-roles.enum.ts",
         "./src/users/user.entity.ts",
         "./src/users/users.repository.ts"
+      ],
+      "./src/auth/dto/change-password.dto.ts": [
+        "./node_modules/class-validator/types/index.d.ts"
       ],
       "./src/auth/get-user.decorator.ts": [
         "./node_modules/@nestjs/common/index.d.ts",
@@ -7161,6 +7309,11 @@
         "./node_modules/@nestjs/common/index.d.ts",
         "./node_modules/@nestjs/core/index.d.ts",
         "./node_modules/rxjs/index.d.ts"
+      ],
+      "./src/configs/mailer.config.ts": [
+        "./node_modules/@nestjs-modules/mailer/dist/adapters/handlebars.adapter.d.ts",
+        "./node_modules/@nestjs-modules/mailer/index.d.ts",
+        "./node_modules/@types/node/path.d.ts"
       ],
       "./src/configs/typeorm.config.ts": [
         "./node_modules/@nestjs/typeorm/index.d.ts"
@@ -7242,6 +7395,48 @@
     "exportedModulesMap": {
       "./node_modules/@babel/parser/typings/babel-parser.d.ts": [
         "./node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/dist/adapters/handlebars.adapter.d.ts": [
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options.interface.d.ts",
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/template-adapter.interface.d.ts",
+        "./node_modules/handlebars/types/index.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/dist/index.d.ts": [
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options-factory.interface.d.ts",
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options.interface.d.ts",
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/send-mail-options.interface.d.ts",
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/template-adapter.interface.d.ts",
+        "./node_modules/@nestjs-modules/mailer/dist/mailer.module.d.ts",
+        "./node_modules/@nestjs-modules/mailer/dist/mailer.service.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-async-options.interface.d.ts": [
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options-factory.interface.d.ts",
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options.interface.d.ts",
+        "./node_modules/@nestjs/common/interfaces/index.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options-factory.interface.d.ts": [
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options.interface.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options.interface.d.ts": [
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/template-adapter.interface.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/send-mail-options.interface.d.ts": [
+        "./node_modules/@types/node/index.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/template-adapter.interface.d.ts": [
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options.interface.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/dist/mailer.module.d.ts": [
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-async-options.interface.d.ts",
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options.interface.d.ts",
+        "./node_modules/@nestjs/common/index.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/dist/mailer.service.d.ts": [
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options.interface.d.ts",
+        "./node_modules/@nestjs-modules/mailer/dist/interfaces/send-mail-options.interface.d.ts"
+      ],
+      "./node_modules/@nestjs-modules/mailer/index.d.ts": [
+        "./node_modules/@nestjs-modules/mailer/dist/index.d.ts"
       ],
       "./node_modules/@nestjs/common/cache/cache.module.d.ts": [
         "./node_modules/@nestjs/common/cache/interfaces/cache-module.interface.d.ts",
@@ -7958,6 +8153,9 @@
       "./node_modules/@nestjs/typeorm/index.d.ts": [
         "./node_modules/@nestjs/typeorm/dist/index.d.ts"
       ],
+      "./node_modules/@types/babel-types/index.d.ts": [
+        "./node_modules/@types/babel-types/ts3.6/index.d.ts"
+      ],
       "./node_modules/@types/babel__core/index.d.ts": [
         "./node_modules/@babel/parser/typings/babel-parser.d.ts",
         "./node_modules/@babel/types/lib/index.d.ts",
@@ -7974,6 +8172,9 @@
       ],
       "./node_modules/@types/babel__traverse/index.d.ts": [
         "./node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "./node_modules/@types/babylon/index.d.ts": [
+        "./node_modules/@types/babel-types/index.d.ts"
       ],
       "./node_modules/@types/body-parser/index.d.ts": [
         "./node_modules/@types/connect/index.d.ts",
@@ -10218,12 +10419,15 @@
       ],
       "./src/auth/auth.controller.ts": [
         "./src/auth/auth.service.ts",
+        "./src/auth/dto/change-password.dto.ts",
         "./src/auth/dto/credentials.dto.ts",
         "./src/users/dtos/create-user.dto.ts",
         "./src/users/user.entity.ts"
       ],
       "./src/auth/auth.service.ts": [
+        "./node_modules/@nestjs-modules/mailer/index.d.ts",
         "./node_modules/@nestjs/jwt/index.d.ts",
+        "./src/auth/dto/change-password.dto.ts",
         "./src/auth/dto/credentials.dto.ts",
         "./src/users/dtos/create-user.dto.ts",
         "./src/users/user.entity.ts",
@@ -10240,6 +10444,9 @@
         "./node_modules/@nestjs/common/index.d.ts",
         "./node_modules/@nestjs/core/index.d.ts",
         "./node_modules/rxjs/index.d.ts"
+      ],
+      "./src/configs/mailer.config.ts": [
+        "./node_modules/@nestjs-modules/mailer/index.d.ts"
       ],
       "./src/configs/typeorm.config.ts": [
         "./node_modules/@nestjs/typeorm/index.d.ts"
@@ -10291,6 +10498,16 @@
     "semanticDiagnosticsPerFile": [
       "./node_modules/@babel/parser/typings/babel-parser.d.ts",
       "./node_modules/@babel/types/lib/index.d.ts",
+      "./node_modules/@nestjs-modules/mailer/dist/adapters/handlebars.adapter.d.ts",
+      "./node_modules/@nestjs-modules/mailer/dist/index.d.ts",
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-async-options.interface.d.ts",
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options-factory.interface.d.ts",
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/mailer-options.interface.d.ts",
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/send-mail-options.interface.d.ts",
+      "./node_modules/@nestjs-modules/mailer/dist/interfaces/template-adapter.interface.d.ts",
+      "./node_modules/@nestjs-modules/mailer/dist/mailer.module.d.ts",
+      "./node_modules/@nestjs-modules/mailer/dist/mailer.service.d.ts",
+      "./node_modules/@nestjs-modules/mailer/index.d.ts",
       "./node_modules/@nestjs/common/cache/cache.constants.d.ts",
       "./node_modules/@nestjs/common/cache/cache.module.d.ts",
       "./node_modules/@nestjs/common/cache/decorators/cache-key.decorator.d.ts",
@@ -10490,13 +10707,17 @@
       "./node_modules/@nestjs/typeorm/dist/typeorm.module.d.ts",
       "./node_modules/@nestjs/typeorm/index.d.ts",
       "./node_modules/@types/anymatch/index.d.ts",
+      "./node_modules/@types/babel-types/index.d.ts",
+      "./node_modules/@types/babel-types/ts3.6/index.d.ts",
       "./node_modules/@types/babel__core/index.d.ts",
       "./node_modules/@types/babel__generator/index.d.ts",
       "./node_modules/@types/babel__template/index.d.ts",
       "./node_modules/@types/babel__traverse/index.d.ts",
+      "./node_modules/@types/babylon/index.d.ts",
       "./node_modules/@types/body-parser/index.d.ts",
       "./node_modules/@types/connect/index.d.ts",
       "./node_modules/@types/cookiejar/index.d.ts",
+      "./node_modules/@types/ejs/index.d.ts",
       "./node_modules/@types/eslint-scope/index.d.ts",
       "./node_modules/@types/eslint-visitor-keys/index.d.ts",
       "./node_modules/@types/eslint/helpers.d.ts",
@@ -10570,6 +10791,7 @@
       "./node_modules/@types/normalize-package-data/index.d.ts",
       "./node_modules/@types/parse-json/index.d.ts",
       "./node_modules/@types/prettier/index.d.ts",
+      "./node_modules/@types/pug/index.d.ts",
       "./node_modules/@types/qs/index.d.ts",
       "./node_modules/@types/range-parser/index.d.ts",
       "./node_modules/@types/serve-static/index.d.ts",
@@ -10720,6 +10942,7 @@
       "./node_modules/class-validator/types/validation/Validator.d.ts",
       "./node_modules/class-validator/types/validation/ValidatorConstraintInterface.d.ts",
       "./node_modules/class-validator/types/validation/ValidatorOptions.d.ts",
+      "./node_modules/handlebars/types/index.d.ts",
       "./node_modules/logform/index.d.ts",
       "./node_modules/nest-winston/dist/index.d.ts",
       "./node_modules/nest-winston/dist/winston.classes.d.ts",
@@ -11091,11 +11314,13 @@
       "./src/auth/auth.controller.ts",
       "./src/auth/auth.module.ts",
       "./src/auth/auth.service.ts",
+      "./src/auth/dto/change-password.dto.ts",
       "./src/auth/dto/credentials.dto.ts",
       "./src/auth/get-user.decorator.ts",
       "./src/auth/jwt.strategy.ts",
       "./src/auth/role.decorator.ts",
       "./src/auth/roles.guard.ts",
+      "./src/configs/mailer.config.ts",
       "./src/configs/typeorm.config.ts",
       "./src/configs/winston.config.ts",
       "./src/interceptors/logger.interceptor.ts",
